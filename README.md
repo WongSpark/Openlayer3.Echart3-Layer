@@ -1,4 +1,5 @@
 # Openlayer3.Echart3-Layer
+
 A new way to combine Openlayer3 with Echart3,Opitimize the render performance.
 
 -----2017/10/19更新
@@ -10,7 +11,7 @@ A new way to combine Openlayer3 with Echart3,Opitimize the render performance.
 
 参照百度地图的做法，笔者实验了Openlayers3与echart3结合，方案可行。同时，针对用户提出的地图缩放和平移时echart图表明显落后于地图移动的问题，做出了相应的改进。
 
-
+预览地址：https://wongspark.github.io/examples/Ol3.Ec3-Layer/demo/myfly.html
 ![OpenlayerE3.gif](/img/Openlayers3E3.gif)
 
 
