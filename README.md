@@ -2,8 +2,11 @@
 
 A new way to combine Openlayer3 with Echart3,Opitimize the render performance.
 
------2017/10/19更新
+>2017/10/19更新
+
 优化图层移动、缩放性能，优化动画效果。减少重绘开销。
+
+>早期描述
 
 在使用Echart时，发现百度官方给出了Echart结合百度地图的例子，在地图数据展示方面有很好的效果，同时，目前手上正好有基于Openlayers的数据展示需求，于是，就了解了相关资料，准备采用这个技术方案来完成需求。
 
